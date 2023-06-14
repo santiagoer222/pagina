@@ -1,8 +1,7 @@
 # Mi primera pagina web
 !DOCTYPE html>
 <html>
-
-  <head>
+<head>
     <title> Mi primera página web</title>
   </head>
  <body>
@@ -26,7 +25,7 @@
       <li>Poder graduarme con honores</li>
       <li>Poder trabajar en un compañía muy reconocida</li>
       <li>Ayudar a la comunidad más vulnerable</li>
-      <img src="https://img.freepik.com/vector-premium/diploma-gorro-graduacion_108855-555.jpg"style="height:200px">
+      <img src="https://img.freepik.com/vector-premium/diploma-gorro-graduacion_108855-555.jpg?w=2000"style="height:200px">
       </ul>
      
   <FONT COLOR="red"> <h2>Mis intereses</h2></FONT>
